@@ -1,0 +1,4 @@
+Processed EEG data
+
+Each file corresponds to the processed data from the written tasks within EEGLAB, prepared for quantitative EEG, and is organized as follows: Participant Number_Task_Group. Example: 65_WW_01 65 to 73: Participant WW: Waking Writing T2: Second written task (Creative Writing (CW), which was restricted to the control group, and Psychography (PSYC), which was restricted to the medium group) 01: control group 02: medium group
+
