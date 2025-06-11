@@ -1,3 +1,0 @@
-QEEG 80 epochs delta_theta_alpha_beta 1_beta 2 Ind_Reg_Elet
-
-Quantitative EEG using the first 80 epochs of each file from the written tasks per frequency band, separated by: global data (Ind), hemisphere-specific data (Reg), and electrode-specific data (Elet).
